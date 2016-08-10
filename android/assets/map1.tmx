@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="GSCTileset32x32" tilewidth="16" tileheight="16">
+  <image source="GSCTileset32x32.png" width="704" height="320"/>
+ </tileset>
+ <layer name="Camada de Tiles 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmDsOAyEMRIko87kKZZK9yd7/IvEWkdIgkmUWD84Ur8TMw0ZCrCml9UvOxsW4Grcf1rFxNx7G01gI8vSwnPwzyEMerMjDhxzEowTxqIHyqPV7No9av2fz8EYeXMiDiwgeERzkwcc/eXi/m1Ae3u8mlMcMyKPN6Ht1lMvoe8UwW4h/ZgYPxD9zyyOnMbPee56t9SWNmfUejwyoweBRADUYPJA1GDJ4e2z7z+6BcvDyeOdH7r231meWPRx5Nt5ZhBBCCBGHF6gBVQo=
+  </data>
+ </layer>
+</map>
